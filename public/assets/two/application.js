@@ -1,1 +1,0 @@
-((function(){jQuery(function(){return alert("george two")})})).call(this),function(){jQuery(function(){return alert("john two")})}.call(this),function(){jQuery(function(){return alert("paul two")})}.call(this),function(){jQuery(function(){return alert("ringo two")})}.call(this)
