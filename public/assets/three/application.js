@@ -1,0 +1,1 @@
+((function(){jQuery(function(){return alert("george three")})})).call(this),function(){jQuery(function(){return alert("john three")})}.call(this),function(){jQuery(function(){return alert("paul three")})}.call(this),function(){jQuery(function(){return alert("ringo three")})}.call(this)
