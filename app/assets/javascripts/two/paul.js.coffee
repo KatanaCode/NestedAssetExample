@@ -1,0 +1,2 @@
+jQuery ->
+  alert('paul two')

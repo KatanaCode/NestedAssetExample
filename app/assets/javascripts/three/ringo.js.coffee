@@ -1,0 +1,2 @@
+jQuery ->
+  alert('ringo three')
